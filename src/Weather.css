@@ -1,0 +1,79 @@
+.form-input-city {
+  background: #ffecda;
+  border: none;
+  padding: 15px 20px;
+  width: 75%;
+  font-size: 16px;
+  border-radius: 6px;
+  color: #f70776;
+  margin-left: 10px;
+}
+
+.form-input-button {
+  background: #ffecda;
+  padding: 14px 18px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-left: 5px;
+  color: #f70776;
+}
+
+.weather-app-main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.time {
+  text-align: center;
+  margin: 0;
+}
+
+.weather-app-details {
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 50px;
+}
+
+.material-symbols-outlined {
+  color: #4d4780;
+  margin: 0;
+  padding: 0;
+}
+
+.weather-app-details strong {
+  color: #f65282;
+}
+
+.weather-app-box {
+  display: flex;
+}
+
+.weather-app-icon {
+  font-size: 88px;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.weather-app-temperature {
+  font-size: 88px;
+  font-weight: bold;
+  color: #4d4780;
+  margin: 0;
+  margin-top: 25px;
+}
+
+.weather-app-unit {
+  margin-top: 50px;
+  font-size: 28px;
+  color: #4d4780;
+  margin-right: 50px;
+  font-weight: bold;
+}
+footer {
+  border-top: 1px solid #ffecda;
+  padding: 5px 0 0 0;
+  font-size: 13px;
+  text-align: center;
+  color: #4d4780;
+}
