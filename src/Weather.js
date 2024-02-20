@@ -81,7 +81,7 @@ export default function Weather() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/roseann1024/weather-app-project"
+            href="https://github.com/roseann1024/weather-app"
             target="_blank"
             rel="noreferrer"
           >
@@ -89,7 +89,7 @@ export default function Weather() {
           </a>
           and{" "}
           <a
-            href="https://weather-rva-app.netlify.app/"
+            href="https://weather-app-react-rva.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
