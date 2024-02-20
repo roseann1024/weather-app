@@ -39,9 +39,6 @@ export default function Weather() {
       <div className="time">{weatherData.time}</div>
       <main className="weather-app-main">
         <div>
-          <div className="weather-app-city">
-            <h1></h1>
-          </div>
           <p className="weather-app-details">
             <br />
             <span className="material-symbols-outlined"></span>
@@ -74,7 +71,11 @@ export default function Weather() {
       <footer>
         <p>
           👩‍💻Coded by{" "}
-          <a href="https://github.com/roseann1024" target="_blank">
+          <a
+            href="https://github.com/roseann1024"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             Rose Ann Austria
           </a>{" "}
@@ -82,11 +83,16 @@ export default function Weather() {
           <a
             href="https://github.com/roseann1024/weather-app-project"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub{" "}
           </a>
           and{" "}
-          <a href="https://weather-rva-app.netlify.app/" target="_blank">
+          <a
+            href="https://weather-rva-app.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </p>
